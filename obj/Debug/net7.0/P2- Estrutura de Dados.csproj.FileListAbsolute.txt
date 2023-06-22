@@ -1,0 +1,15 @@
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\bin\Debug\net7.0\P2- Estrutura de Dados.exe
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\bin\Debug\net7.0\P2- Estrutura de Dados.deps.json
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\bin\Debug\net7.0\P2- Estrutura de Dados.runtimeconfig.json
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\bin\Debug\net7.0\P2- Estrutura de Dados.dll
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\bin\Debug\net7.0\P2- Estrutura de Dados.pdb
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\obj\Debug\net7.0\P2- Estrutura de Dados.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\obj\Debug\net7.0\P2- Estrutura de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\obj\Debug\net7.0\P2- Estrutura de Dados.AssemblyInfoInputs.cache
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\obj\Debug\net7.0\P2- Estrutura de Dados.AssemblyInfo.cs
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\obj\Debug\net7.0\P2- Estrutura de Dados.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\obj\Debug\net7.0\P2- Estrutura de Dados.dll
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\obj\Debug\net7.0\refint\P2- Estrutura de Dados.dll
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\obj\Debug\net7.0\P2- Estrutura de Dados.pdb
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\obj\Debug\net7.0\P2- Estrutura de Dados.genruntimeconfig.cache
+C:\Users\victo\Downloads\repos\P2- Estrutura de Dados\obj\Debug\net7.0\ref\P2- Estrutura de Dados.dll
